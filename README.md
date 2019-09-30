@@ -13,3 +13,4 @@ Basit bir alışveriş sepeti uygulamasıdır.
 - .NET Core 2.2
 - xUnit
 - Moq
+- Shouldly
