@@ -4,9 +4,9 @@ Basit bir alışveriş sepeti uygulamasıdır.
 
 ## Klasör Yapısı
 
-- [docs](./docs/README.md)
-- [src](./src/README.md)
-- [test](./test/README.md)
+- [docs](./docs/)
+- [src](./src/)
+- [test](./test/)
 
 ## Kullanılan Teknoloji ve Araçlar
 
